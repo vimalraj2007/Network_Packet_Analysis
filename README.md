@@ -38,9 +38,9 @@ Captured and analyzed network traffic using Wireshark to identify protocols and 
 ```
 Network_Packet_Analysis/
 ├── Screenshots/
-├── Report.pdf
-├── Report.pdf
-└── README.md
+├── Networks_Analysis.pcapng
+├── README.md
+└── Report.pdf
 ```
 ---
 ## 🛡️ Conclusion
