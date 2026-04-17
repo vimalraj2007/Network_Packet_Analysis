@@ -43,8 +43,10 @@ Network_Packet_Analysis/
 └── Report.pdf
 ```
 ---
+
 ## 🛡️ Conclusion
-Wireshark helps monitor and analyze network traffic to understand communication and detect issues.
+
+- Wireshark helps monitor and analyze network traffic to understand communication and detect issues.
 ----
 ## 👤 Author
 Vimal Raj R
