@@ -36,10 +36,10 @@ Captured and analyzed network traffic using Wireshark to identify protocols and 
 ## 📁 Repository Structure
 
 ```
-API-Security-Analysis/
+Network_Packet_Analysis/
 ├── Screenshots/
 ├── Report.pdf
-├── Recommendations-and-Attack-Flow-Analysis.pdf
+├── Report.pdf
 └── README.md
 ```
 ---
